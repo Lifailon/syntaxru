@@ -1,5 +1,12 @@
-# syntaxru
+# RuDocs
 
-Данный репозиторий содержи краткое описание основ синтаксиса `JavaScript` для `Node.js` с использованием  примеров на русском языке.
+Данный репозиторий содержи **документацию** в примерах по основам синтаксиса `JavaScript` ([node.js](https://github.com/nodejs/node)) на **русском языке**.
 
 - [Node.js](node.js.md)
+
+### Backlog
+
+- Bash
+- Python
+- CSharp
+- GoLang
